@@ -121,3 +121,4 @@ if (salario<= 2000){
 } else if(salario>4000){
     console.log(`O reajuste do seu salário é de R$${salario*8/100}`);   
 } 
+
